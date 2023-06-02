@@ -1,0 +1,47 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Projects\IMv\Altium_Lib_DB\Analog\Analog_DB.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=Analog_DB.accdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Analog
+[Table1]
+SchemaName=
+TableName=Analog
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=108|Description0=452|Library Ref0=77|Library Path0=110|Footprint Ref0=144|Footprint Path0=118|PCB3D Ref0=76|PCB3D Path0=82|Value0=52|Manufacturer0=190|Package Type0=183|Temperature Range0=124|Status0=55|Height0=58|Supplier 10=75|Supplier Part Number 10=142|Manufacturer Part Number0=160|RoHS0=51|Category0=170|Stock 10=60|Pricing 10=345|Number of Pins0=102|Contact Plating0=102|Min Operating Temperature0=167|Max Operating Temperature0=168|Operating Supply Voltage0=157|Packaging0=76|Package Quantity0=112|Bandwidth0=79|Series0=53|P1dB0=48|Throw Configuration0=132|IIP30=42|Max Frequency0=100|Number of Switches0=126|Insertion Loss0=94|Interface0=68|-3db Bandwidth0=106|Test Frequency0=100|Max Supply Voltage0=125|Max Power Dissipation0=140|Number of Outputs0=124|Number of Bits0=99|Frequency0=76|Min Supply Voltage0=124|Min Frequency0=99|Length0=59|Width0=55|Thickness0=73|Radiation Hardening0=131|RoHS Compliant0=107|Lead Free0=81|Reach SVHC Compliant0=141|ComponentLink1URL0=407|ComponentLink1Description0=407|ComponentLink2URL0=420|ComponentLink2Description0=420|ComponentLink3URL0=420|ComponentLink3Description0=420|ComponentLink4URL0=420|ComponentLink4Description0=420|ComponentLink5URL0=407|ComponentLink5Description0=407
+[FieldMap1]
+Options=FieldName=Analog.Part Number|TableNameOnly=Analog|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Analog.Description|TableNameOnly=Analog|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Analog.Library Ref|TableNameOnly=Analog|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Analog.Library Path|TableNameOnly=Analog|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Analog.Footprint Ref|TableNameOnly=Analog|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Analog.Footprint Path|TableNameOnly=Analog|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Analog.PCB3D Ref|TableNameOnly=Analog|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Analog.PCB3D Path|TableNameOnly=Analog|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
