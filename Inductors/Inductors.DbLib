@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=95|Description0=166|Library Ref0=77|Library Path0=88|Footprint Ref0=92|Footprint Path0=98|PCB3D Ref0=76|PCB3D Path0=82|Value0=52|Manufacturer0=93|Package Type0=92|Temperature Range0=124|Status0=55|Height0=58|SRF0=44|DCR0=59|IRMS0=49
+BrowserOrder_Visible=Part Number0=88|Description0=166|Library Ref0=77|Library Path0=88|Footprint Ref0=92|Footprint Path0=98|PCB3D Ref0=76|PCB3D Path0=82|Value0=52|Manufacturer0=93|Package Type0=92|Temperature Range0=124|Status0=55|Height0=58|SRF0=50|DCR0=65|IRMS0=49
 [FieldMap1]
 Options=FieldName=Inductors.Part Number|TableNameOnly=Inductors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
