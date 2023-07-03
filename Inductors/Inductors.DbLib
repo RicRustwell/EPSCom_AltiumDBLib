@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=88|Description0=166|Library Ref0=77|Library Path0=88|Footprint Ref0=92|Footprint Path0=98|PCB3D Ref0=76|PCB3D Path0=82|Value0=52|Manufacturer0=93|Package Type0=92|Temperature Range0=124|Status0=55|Height0=58|SRF0=50|DCR0=65|IRMS0=49
+BrowserOrder_Visible=Part Number0=101|Description0=207|Library Ref0=77|Library Path0=88|Footprint Ref0=122|Footprint Path0=106|PCB3D Ref0=76|PCB3D Path0=82|Value0=52|Manufacturer0=93|Package Type0=92|Temperature Range0=124|Status0=55|Height0=58|SRF0=50|DCR0=65|IRMS0=49|Supplier0=66|Supplier Part Number0=133|Manufacturer Part Number0=160|RoHS0=51|Category0=69|Stock0=51|Pricing0=58|Mounting Technology0=138|Case/Package0=93|Core Material0=92|Case Code (Metric)0=118|Case Code (Imperial)0=127|Min Operating Temperature0=167|Max Operating Temperature0=168|Packaging0=76|DC Resistance (DCR)0=126|Series0=53|Shielding0=72|Self Resonant Frequency0=150|Max DC Current0=104|Termination0=85|Package Quantity0=112|Current Rating0=99|Test Frequency0=100|DC Current0=80|Max Current Rating0=123|Q Factor0=66|Length0=59|Width0=55|Height - Seated (Max)0=133|Depth0=55|Radiation Hardening0=131|Lead Free0=72|RoHS Compliant0=107|Military Standard0=111|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|ComponentLink4URL0=131|ComponentLink4Description0=170|ComponentLink5URL0=131|ComponentLink5Description0=170
 [FieldMap1]
 Options=FieldName=Inductors.Part Number|TableNameOnly=Inductors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

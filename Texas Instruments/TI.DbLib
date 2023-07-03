@@ -12,7 +12,7 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Access
-LibraryDatabasePath=C:\Projects\IMv\EPSCom_AltiumDBLib\Texas Instruments\TI_DB.accdb
+LibraryDatabasePath=TI_DB.accdb
 DatabasePathRelative=1
 TopPanelCollapsed=0
 LibrarySearchPath=
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=94|Description0=524|Library Ref0=90|Library Path0=126|Footprint Ref0=106|Footprint Path0=98|PCB3D Ref0=76|PCB3D Path0=82|Value0=90|Manufacturer0=100|Package Type0=122|Temperature Range0=124|Status0=55|Height0=58|Supplier 10=75|Supplier Part Number 10=142|Manufacturer Part Number0=160|RoHS0=51|Category0=170|Stock 10=60|Pricing 10=67|Number of Pins0=102|Contact Plating0=102|Min Operating Temperature0=167|Max Operating Temperature0=168|Operating Supply Voltage0=157|Packaging0=81|Package Quantity0=112|Bandwidth0=79|Series0=53|P1dB0=48|Throw Configuration0=132|IIP30=41|Max Frequency0=100|Number of Switches0=126|Insertion Loss0=94|Interface0=68|-3db Bandwidth0=106|Test Frequency0=100|Max Supply Voltage0=125|Max Power Dissipation0=140|Number of Outputs0=124|Number of Bits0=99|Frequency0=76|Min Supply Voltage0=124|Min Frequency0=99|Length0=59|Width0=55|Thickness0=73|Radiation Hardening0=131|RoHS Compliant0=107|Lead Free0=72|Reach SVHC Compliant0=141|ComponentLink1URL0=618|ComponentLink1Description0=618|ComponentLink2URL0=412|ComponentLink2Description0=412|ComponentLink3URL0=406|ComponentLink3Description0=406|ComponentLink4URL0=398|ComponentLink4Description0=398|ComponentLink5URL0=131|ComponentLink5Description0=170|Supplier0=66|Supplier Part Number0=133|Stock0=51|Pricing0=399|Case/Package0=93|Pins0=44|Output Voltage0=104|Dropout Voltage0=110|Output Current0=103|Max Output current0=125|Min Input Voltage0=117|Number of Regulators0=137|Min Current Limit0=112|Input Bias Current0=116|Polarity0=61|Accuracy0=67|Quiescent Current0=116|Output Type0=88|Nominal Output Voltage0=150|Output Voltage Accuracy0=151|Max Output Voltage0=128|Min Output Voltage0=127|Output Configuration0=137|Max Supply Current0=124|Power Supply Rejection Ratio (PSRR)0=209|Reference Voltage0=117|Mounting Technology0=100|Settling Time0=100|Number of Channels0=100|Number of DAC Channels0=100|Number of Converters0=100|Resolution0=100|Supply Type0=100|Integral Nonlinearity (INL)0=100|Supply Current0=100|ComponentLink6URL0=100|ComponentLink6Description0=100|ComponentLink7URL0=100|ComponentLink7Description0=100
+BrowserOrder_Visible=Part Number0=135|Description0=524|Library Ref0=102|Library Path0=138|Footprint Ref0=106|Footprint Path0=117|PCB3D Ref0=76|PCB3D Path0=82|Value0=135|Manufacturer0=144|Package Type0=122|Temperature Range0=124|Status0=55|Height0=58
 [FieldMap1]
 Options=FieldName=Texas Instruments.Part Number|TableNameOnly=Texas Instruments|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
