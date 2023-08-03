@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Projects\EPSCom_AltiumDBLib\Inductors\Inductors_DB.accdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Projects\IMv\EPSCom_AltiumDBLib\Inductors\Inductors_DB.accdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -12,8 +12,8 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Access
-LibraryDatabasePath=C:\Projects\EPSCom_AltiumDBLib\Inductors\Inductors_DB.accdb
-DatabasePathRelative=0
+LibraryDatabasePath=Inductors_DB.accdb
+DatabasePathRelative=1
 TopPanelCollapsed=0
 LibrarySearchPath=
 OrcadMultiValueDelimiter=,
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=99|Description0=515|Library Ref0=78|Library Path0=85|Footprint Ref0=120|Footprint Path0=104|PCB3D Ref0=77|PCB3D Path0=82|Value0=51|Manufacturer0=90|Package Type0=93|Temperature Range0=123|Status0=54|Height0=57|SRF0=50|DCR0=64|IRMS0=49
+BrowserOrder_Visible=Part Number0=101|Description0=522|Library Ref0=77|Library Path0=88|Footprint Ref0=122|Footprint Path0=106|PCB3D Ref0=76|PCB3D Path0=82|Value0=52|Tolerance0=73|Manufacturer0=93|Device Package0=101|Operating Temperature0=144|SRF0=50|DCR0=65|IRMS0=49|Height - Seated (Max)0=133|Status0=55
 [FieldMap1]
 Options=FieldName=Inductors.Part Number|TableNameOnly=Inductors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

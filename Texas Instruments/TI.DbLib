@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=135|Description0=524|Library Ref0=102|Library Path0=138|Footprint Ref0=106|Footprint Path0=117|PCB3D Ref0=76|PCB3D Path0=82|Value0=135|Manufacturer0=144|Package Type0=122|Temperature Range0=124|Status0=55|Height0=58
+BrowserOrder_Visible=Part Number0=135|Description0=524|Library Ref0=102|Library Path0=138|Footprint Ref0=106|Footprint Path0=117|PCB3D Ref0=76|PCB3D Path0=82|Value0=135|Manufacturer0=144|Device Package0=122|Operating Temperature0=144|Height - Seated (Max)0=133|Status0=55
 [FieldMap1]
 Options=FieldName=Texas Instruments.Part Number|TableNameOnly=Texas Instruments|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

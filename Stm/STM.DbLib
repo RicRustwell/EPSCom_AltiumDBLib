@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=93|Description0=644|Library Ref0=93|Library Path0=96|Footprint Ref0=92|Footprint Path0=98|PCB3D Ref0=76|PCB3D Path0=82|Value0=93|Manufacturer0=104|Package Type0=92|Temperature Range0=124|Status0=55|Height0=58|Tolerance0=73
+BrowserOrder_Visible=Part Number0=93|Description0=644|Library Ref0=93|Library Path0=127|Footprint Ref0=92|Footprint Path0=98|PCB3D Ref0=76|PCB3D Path0=82|Value0=93|Manufacturer0=104|Device Package0=101|Operating Temperature0=144|Height - Seated (Max)0=133|Tolerance0=73|Status0=55
 [FieldMap1]
 Options=FieldName=STM.Part Number|TableNameOnly=STM|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

@@ -1,0 +1,11 @@
+Altium Designer System: Library Component Rule Check
+PCB File : QFN28_UDE_3x6mm
+Date     : 12.07.2023
+Time     : 12:13:12
+
+
+Name                Warnings
+------------------------------------------------------------------
+QFN50P300X600X80-29N-D   Shorted Copper Connection Between Pad Free-18(1.5mm,-0.75mm) on Top Layer And Pad Free-17(1.5mm,-1.25mm) on Top Layer
+QFN50P300X600X80-29N-D   Shorted Copper Connection Between Pad Free-17(1.5mm,-1.25mm) on Top Layer And Pad Free-18(1.5mm,-0.75mm) on Top Layer
+
