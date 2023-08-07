@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Projects\IMv\EPSCom_AltiumDBLib\Stm\STM.accdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Projects\EPSCom_AltiumDBLib\Stm\STM.accdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -12,7 +12,7 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Access
-LibraryDatabasePath=C:\Projects\IMv\EPSCom_AltiumDBLib\Stm\STM.accdb
+LibraryDatabasePath=STM.accdb
 DatabasePathRelative=1
 TopPanelCollapsed=0
 LibrarySearchPath=
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=93|Description0=644|Library Ref0=93|Library Path0=127|Footprint Ref0=92|Footprint Path0=98|PCB3D Ref0=76|PCB3D Path0=82|Value0=93|Manufacturer0=104|Device Package0=101|Operating Temperature0=144|Height - Seated (Max)0=133|Tolerance0=73|Status0=55
+BrowserOrder_Visible=Part Number0=93|Description0=634|Library Ref0=93|Library Path0=125|Footprint Ref0=91|Footprint Path0=96|PCB3D Ref0=77|PCB3D Path0=82|Value0=93|Manufacturer0=103|Device Package0=102|Operating Temperature0=142|Height - Seated (Max)0=135|Tolerance0=72|Status0=54
 [FieldMap1]
 Options=FieldName=STM.Part Number|TableNameOnly=STM|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
