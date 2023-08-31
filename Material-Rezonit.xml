@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensibleLibrary SerializerVersion="1.2.0.0" LibraryId="1c1ac65f-5386-4fda-8690-c0afd0899df3" Version="1.2.0.0" xmlns="http://altium.com/ns/Data/ExtensibleLibraries">
+  <Types xmlns=""/>
+  <TypeExtensions xmlns=""/>
+  <Entities xmlns="">
+    <Entity Id="4EEF61BD-9102-4C5F-B624-F470C0C66F84" TypeId="4be0915d-5b0d-4c59-8fae-d57f8650d474" RevisionId="C471B8A3-B004-44CA-B62A-837879839E86" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Weight" Type="DimValue" Dimension="Mass">0.5oz</Property>
+      <Property Name="Process" Type="String">ED</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">Cu</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">18um</Property>
+    </Entity>
+    <Entity Id="72714894-3D2A-464F-8768-5B91C4240EA1" TypeId="4be0915d-5b0d-4c59-8fae-d57f8650d474" RevisionId="FEA5B3C3-E7C6-4FFA-9FD5-0DC51DE18D92" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Weight" Type="DimValue" Dimension="Mass">1oz</Property>
+      <Property Name="Process" Type="String">ED</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">Cu</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">35um</Property>
+    </Entity>
+    <Entity Id="10E4338A-F7A1-490A-8922-AD7FE11F998F" TypeId="4be0915d-5b0d-4c59-8fae-d57f8650d474" RevisionId="6D1B2863-3803-4719-B41E-DE71BFDDD3B3" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Weight" Type="DimValue" Dimension="Mass">2oz</Property>
+      <Property Name="Process" Type="String">ED</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">Cu</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">70um</Property>
+    </Entity>
+    <Entity Id="615B0040-91F8-4ED2-BA84-9F687F301752" TypeId="4be0915d-5b0d-4c59-8fae-d57f8650d474" RevisionId="4744AFFE-453C-4A87-825C-DA40AF903381" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Weight" Type="DimValue" Dimension="Mass">3oz</Property>
+      <Property Name="Process" Type="String">ED</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">Cu</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">105um</Property>
+    </Entity>
+    <Entity Id="8CBF3AA6-CE31-4A9A-8951-CFB6669570B2" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="FD6C24D8-6544-4EFC-9A39-5DF59E200091" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.5</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.022</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">135C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg135</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">800um</Property>
+    </Entity>
+    <Entity Id="5F7F35EF-239A-4030-B30E-A6BCF5E3BEC7" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="FAD21EAE-2D24-439C-8EF2-0F9CD59C4D28" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.5</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.022</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">135C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg135</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1000um</Property>
+    </Entity>
+    <Entity Id="6016B03B-4A5C-427D-AF96-C87A0599B3D4" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="2A863133-ACA9-46BB-8F8A-749909641606" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.5</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.022</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">135C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg135</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1500um</Property>
+    </Entity>
+    <Entity Id="6AA97F7F-8DE5-4F5E-89F3-AD5C040BDFC9" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="839E48AA-45D6-483F-846E-BB6E05C3ACC3" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.5</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.022</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">135C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg135</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">2000um</Property>
+    </Entity>
+    <Entity Id="FF62DFB3-7CED-421A-99B1-7DC2C3E3F8D0" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="14C29B26-4BEE-4C59-BBE3-44132BC205CE" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.5</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.022</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">135C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg135</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">3000um</Property>
+    </Entity>
+    <Entity Id="429684C7-F702-4738-B9A7-769C0E597293" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="1A915FDA-BD4E-4090-A4CE-1AB9BAE969B8" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.38</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">WL-CT338</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">203um</Property>
+    </Entity>
+    <Entity Id="DC7B1F78-D49E-4E03-A43E-C6780F1492F5" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="C5515C80-146A-4959-86D5-681E4D977132" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.38</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">WL-CT338</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">305um</Property>
+    </Entity>
+    <Entity Id="B90DA0B8-0765-4C51-BED9-833361CF712C" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="5262BC95-2BD5-4BD5-8A67-D23CDE05FB70" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.38</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">WL-CT338</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">508um</Property>
+    </Entity>
+    <Entity Id="52F95A1E-BDE0-48E8-ABAB-E07E4BA5CB18" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="C2B1EB39-04AC-41EB-A156-5796CF93B6FB" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.38</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">WL-CT338</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">813um</Property>
+    </Entity>
+    <Entity Id="4970984B-3D3B-4691-9A14-04B65569C93B" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="234CBC18-E816-489D-B2E9-76F6B93406C4" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.38</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">WL-CT338</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1524um</Property>
+    </Entity>
+    <Entity Id="39BCDD17-433B-4D6F-92D8-9165AF3CA94F" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="C013FC20-C33F-4C27-9DD0-4B4A8DA7D0E2" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.48</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.004</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">WL-CT350</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">101um</Property>
+    </Entity>
+    <Entity Id="052596AD-2733-4CCB-A1B4-6951013D1487" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="81089536-84C2-4F77-9AE9-6BED4B5D048B" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.48</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.004</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">WL-CT350</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">254um</Property>
+    </Entity>
+    <Entity Id="EF776874-CD8C-4B4C-BFF3-4D369820BE92" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="FF28F794-140A-43F1-A9B3-3F765D6B33A6" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.48</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.004</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">WL-CT350</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">338um</Property>
+    </Entity>
+    <Entity Id="46BC2A3C-86CE-411B-B9A5-4809A4D39A67" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="8CB6B8D5-3699-4C09-9D87-CC91568EC548" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.48</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.004</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">WL-CT350</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">508um</Property>
+    </Entity>
+    <Entity Id="DE822A05-4EC6-4E8F-9E67-21612BB86B14" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="CC0EA127-248B-49FB-BE07-29DEB605F88C" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.48</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.004</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">WL-CT350</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">762um</Property>
+    </Entity>
+    <Entity Id="247D9134-68EF-471C-A5C2-2C8664E177B7" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="31EA0E4D-12BE-44DA-9206-78F6E166BA1B" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.48</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.004</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">WL-CT350</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1524um</Property>
+    </Entity>
+    <Entity Id="C49B75E2-B7AE-4727-BC55-4EFD8D14AC64" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="97E3A1AE-D86F-4DF7-BE70-86CD19A1C1F3" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.7</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg150</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">100um</Property>
+    </Entity>
+    <Entity Id="EEA9A267-826C-4CA6-B677-D21D9FB3881E" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="3C1E481E-E8AA-430F-BD73-E7C10A0F9CBA" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.9</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg150</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">150um</Property>
+    </Entity>
+    <Entity Id="189A41B9-94D3-4E3F-B6BD-40F2807FFD23" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="63E3A4AB-0194-4BC4-B0D1-3262BF327F81" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.1</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg150</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">200um</Property>
+    </Entity>
+    <Entity Id="5B1B6042-36D1-4668-85D2-09E0BCAE1150" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="4FC99F9F-4BE5-46F0-9789-FFDACA0CC6BE" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.1</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg150</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">250um</Property>
+    </Entity>
+    <Entity Id="4CB185F9-3225-4972-8B49-A71937A05BA7" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="4652878F-8D92-4960-817C-F11D037A0009" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.6</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg150</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">300um</Property>
+    </Entity>
+    <Entity Id="E920AE2E-178A-46A4-B7D4-24CF617FCB26" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="8E996A60-1001-4997-BA53-5550F3F42F07" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.6</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg150</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">500um</Property>
+    </Entity>
+    <Entity Id="3584A1D5-8B4A-4F58-A19E-34130806836C" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="59791C7D-76F6-4231-A8DE-B79AF10356BE" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.6</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg150</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">710um</Property>
+    </Entity>
+    <Entity Id="B3DCFCC6-38B5-4DA8-8783-F0A37F54C576" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="E32C9F6B-FF8A-4144-9601-6363F26ACC5B" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.6</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg150</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">800um</Property>
+    </Entity>
+    <Entity Id="48220EEB-076D-4F5C-BB11-FB76C8074CB9" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="95CE282A-B8F4-4AE6-BFCC-8B8B42E6904C" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.6</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg150</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1000um</Property>
+    </Entity>
+    <Entity Id="E8302A77-1A77-4E7F-96BB-ECA6BA9A1EA4" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="AD97D2E9-0A9A-48E7-B1BC-A061E452233D" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.6</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 Tg150</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1200um</Property>
+    </Entity>
+    <Entity Id="A7EF2829-465F-4267-9CD1-E534AD8276BB" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="62F56AD9-BD2D-4A4C-87B6-8E8980886783" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.5</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.022</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 HiTg170</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">50um</Property>
+    </Entity>
+    <Entity Id="D348FCBF-FD84-41C1-995E-C8471CC48C83" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="5A4CCBB5-1ED9-4E8D-B794-A586FADC8B74" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 HiTg170</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">100um</Property>
+    </Entity>
+    <Entity Id="000C79DE-04CB-4025-B549-92822229B6FA" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="BE01EDAE-9245-47EF-8DF9-9AA0C780F756" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.5</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 HiTg170</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">150um</Property>
+    </Entity>
+    <Entity Id="324B6DFB-AD5B-4008-A771-537E0E653CB8" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="2A7A4EF9-EF02-478A-B639-E8349962A970" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.3</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 HiTg170</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">200um</Property>
+    </Entity>
+    <Entity Id="D2632C7D-3C73-49EB-B8BB-3AFE4464929A" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="09124A2E-0D48-47CE-B143-018550031DE8" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.3</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 HiTg170</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">250um</Property>
+    </Entity>
+    <Entity Id="80C83356-240B-462D-94DE-63357F2EF964" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="E232D8AA-BE09-4D6D-A4ED-08B1D961CE71" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.5</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 HiTg170</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">300um</Property>
+    </Entity>
+    <Entity Id="5A311695-1BE1-46EA-81B3-1A798DBFE84F" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="1C50C23D-4403-4A20-848B-0ED62D31EF35" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.7</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 HiTg170</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">510um</Property>
+    </Entity>
+    <Entity Id="9C2853BB-B58C-4C2C-8309-4F6230BA5140" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="F90F6253-84AD-421E-8AA4-FA378C923540" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.7</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 HiTg170</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">710um</Property>
+    </Entity>
+    <Entity Id="A75452C0-0897-494E-8B27-45EF99E32205" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="41BD4653-0223-4378-B687-D3A00C47650C" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.6</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 HiTg170</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1000um</Property>
+    </Entity>
+    <Entity Id="5633AE89-4AEB-478A-90B8-4372050D3504" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="14B37ACC-19FF-4050-96CC-127C8D65DAD0" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.7</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 HiTg170</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1200um</Property>
+    </Entity>
+    <Entity Id="CC6500CD-BC2E-469D-B155-AB9BD31B184E" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="392A87CB-FBD2-471E-A57D-8E403A9FCCB2" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.7</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 HiTg170</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1500um</Property>
+    </Entity>
+    <Entity Id="0284F299-4098-48DD-8A3C-15196B89C7D4" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="6897BEE3-4523-4F38-B2A7-4E7D75D6240D" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.38</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">RO4350B</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">101um</Property>
+    </Entity>
+    <Entity Id="BBA851F5-5020-4BC8-BAAB-495F1FFC42E9" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="F71C9C47-EC61-4EAA-8461-BCDCE5021C12" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.38</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">RO4350B</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">338um</Property>
+    </Entity>
+    <Entity Id="61FEB89B-7EEA-46A7-A287-9118C1117998" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="0FE289B1-ADE1-47C4-9740-99CFE6E778BC" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.38</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">RO4350B</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">508um</Property>
+    </Entity>
+    <Entity Id="8EF74ABD-8467-4F7B-BF56-DB158A19AD64" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="CAB5766A-569A-46ED-973B-1E68A0F7D51F" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.38</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">RO4350B</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">762um</Property>
+    </Entity>
+    <Entity Id="12A0DE6D-280D-48C2-9426-420DA62EFC91" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="33F0F2CA-D2E3-49F1-A9AB-E83C70EAE134" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.001</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">RO3003</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">762um</Property>
+    </Entity>
+    <Entity Id="8E993734-90F6-4015-9F74-9D217F3896E7" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="EF8BF0A8-743A-4D20-9ADF-9E33A4A433CB" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">2.5</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.001</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AD250</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">508um</Property>
+    </Entity>
+    <Entity Id="24251C54-67BF-4DD4-9445-FDA21080C536" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="5D9AD798-9DB8-44B4-A3F8-04DCBF8A2099" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">2.55</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.001</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AD255</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1016um</Property>
+    </Entity>
+    <Entity Id="AF77F6B3-2D88-47B3-A63A-5B204BA5D394" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="0994BE27-E052-4893-98CE-38F70DB1EA9F" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">2.55</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.001</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AD255</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1524um</Property>
+    </Entity>
+    <Entity Id="E54CD9FA-F848-4673-ABB8-F457A8B7E0C4" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="1516A2D1-0427-4FC2-AE7A-F3757FD51C44" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">2.55</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.001</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AD255</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">2032um</Property>
+    </Entity>
+    <Entity Id="E7FA749B-6FD1-4E74-BE61-67DC004C715B" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="66A56971-F21E-4FB8-B74E-5E61D4935482" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">10.2</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AD1000</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">508um</Property>
+    </Entity>
+    <Entity Id="E3960FD4-D6B8-4AAB-8728-FD5CE894E8F4" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="B9EA4B5F-B545-4B6D-92B2-46B3760A260A" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">10.2</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AD1000</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">635um</Property>
+    </Entity>
+    <Entity Id="D95158EA-326C-4F23-B01C-376285ED5562" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="9E9D8F48-1E1B-47D9-A5AB-FB9672A7FEF2" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">10.2</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AD1000</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1270um</Property>
+    </Entity>
+    <Entity Id="8E18CD46-203B-4114-81CF-61271E748F9A" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="83B0E975-A010-4328-853A-63693ADBC59A" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">2.55</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.001</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">F4BM255</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1016um</Property>
+    </Entity>
+    <Entity Id="512B15B9-AB94-45B8-BEE6-6DE282E1F900" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="68176A3A-3137-486F-823C-4C9FB3E27620" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">2.55</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.001</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">F4BM255</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">1524um</Property>
+    </Entity>
+    <Entity Id="05EF30D0-BF66-4075-8F33-BBCF915DB5A0" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="6A54407E-0505-479B-9D4E-5B3ACCDFDAE3" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">2.55</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">F4BM255</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">2032um</Property>
+    </Entity>
+    <Entity Id="32ECEFC8-3804-4FA6-9523-6C4F94067455" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="3028A521-1F36-4538-8E21-B73F742528BE" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.52</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.008</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">190C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">TU-872 SLK FR-4</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">76um</Property>
+    </Entity>
+    <Entity Id="131B792D-158D-4DEE-B90C-0EAAEA37182B" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="C6FB8A9B-5E26-45E8-96ED-E1075BEAB859" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.34</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.008</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">190C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">TU-872 SLK FR-4</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">102um</Property>
+    </Entity>
+    <Entity Id="8E4330FC-C0A9-4087-81CA-6D7B5C9E18C0" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="895E2A3F-5274-489C-ACCD-C9E84E9DCA33" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.52</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.008</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">190C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">TU-872 SLK FR-4</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">152um</Property>
+    </Entity>
+    <Entity Id="94DEFFA3-684A-4935-A1D5-787CD9D4ADF9" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="22A85464-0255-471D-A1FB-ECC98EB18770" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.76</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.008</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">190C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">TU-872 SLK FR-4</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">254um</Property>
+    </Entity>
+    <Entity Id="B56735F2-11F9-475D-9C5D-FD14D7BE5476" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="7C3111D8-68D2-4D34-A3DF-58A33CB2EF4D" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.71</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.008</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">190C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">TU-872 SLK FR-4</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">533um</Property>
+    </Entity>
+    <Entity Id="23268CD2-CA51-4637-B59C-0AD851DBE6D9" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="B232C41D-079B-4674-8701-5376168B280C" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.005</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AС352500EY</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">25um</Property>
+    </Entity>
+    <Entity Id="DAA71223-183D-4430-9D04-BBCFCA599E7C" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="98A72A1D-CC97-4053-9364-90B07A0EF661" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.2</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.007</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">230C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AG182518R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">25um</Property>
+    </Entity>
+    <Entity Id="17294DCD-B64C-40F0-B2B2-229B58F4FA5B" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="93DFB1AA-7159-48EB-887F-665376979216" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AP8515R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">25um</Property>
+    </Entity>
+    <Entity Id="4AD45536-C51D-4F24-84C6-476435BA51C3" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="5191F6DF-12F4-40F8-ABE7-CD5F4756031E" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AP8515E</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">25um</Property>
+    </Entity>
+    <Entity Id="50083144-A340-497F-9002-857D762AFD00" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="F55D0C83-72D7-4B06-9467-BC2C7E29386D" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.6</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.02</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">LF8510R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">50um</Property>
+    </Entity>
+    <Entity Id="21631785-452A-41EA-855E-E91EA844A4AE" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="EDDE587C-B4D5-4727-8482-09F013096FEE" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.6</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.02</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">LF9110R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">50um</Property>
+    </Entity>
+    <Entity Id="A683F03A-6331-4B94-8DBA-448EC4F9CB9D" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="D35A390F-9758-4037-936D-039B97AF7583" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AP8525R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">50um</Property>
+    </Entity>
+    <Entity Id="28B96B7E-5455-4FEC-BF35-47BE275F93D8" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="71311D5C-13FC-4797-9A36-3DC6C28DB0AA" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AP8525E</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">50um</Property>
+    </Entity>
+    <Entity Id="D040A7D2-CFB1-44D6-974E-B4FF9911F6AA" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="C4ABF3E2-45BF-45CE-8C48-971016FFAA86" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.2</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.007</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">230C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AG352535R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">25um</Property>
+    </Entity>
+    <Entity Id="7A2BD5FA-9A7A-49A2-B84C-D289592A0110" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="327A6A92-E68E-4897-B0B4-E89B322ABF5B" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">CG352535E</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">25um</Property>
+    </Entity>
+    <Entity Id="BA60D976-4AD3-44F6-BEAE-E1CEC8369652" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="493F188F-F910-4992-8AE3-4A7EED26DB09" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AP9111R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">25um</Property>
+    </Entity>
+    <Entity Id="E6C6AFB4-BDC8-495F-8797-13C7C3E1D5EB" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="E2FAAEE4-C9ED-401B-A179-B312EC0595FD" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AP8535R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">75um</Property>
+    </Entity>
+    <Entity Id="652F3248-1518-4356-9B2A-823F9AC5A2B5" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="5B2D3130-3329-42D8-89DA-FE346B745F74" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.003</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AP9121R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">50um</Property>
+    </Entity>
+    <Entity Id="9A724A43-397F-45B3-BA63-239E50750397" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="B41C9B36-64D6-4C93-ACD2-B71AF91774E1" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AP8545R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">100um</Property>
+    </Entity>
+    <Entity Id="CAD7F4D8-03CA-4834-84F4-22FBB566178B" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="8E0355AF-AA7D-44A1-8AB7-7B108131E6BC" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AP9131R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">75um</Property>
+    </Entity>
+    <Entity Id="C2D03819-0D69-4BE5-BA77-3EE48B0BC4E1" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="256953AC-7E1D-414A-B980-EBF0F68B6DBC" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AP8555R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">125um</Property>
+    </Entity>
+    <Entity Id="21CB7EAF-2E32-4EE0-9324-A098B1764949" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="72AFA563-C037-49C1-ADA8-0247192F021B" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.3</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">A-4010RD</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">100um</Property>
+    </Entity>
+    <Entity Id="BE691F5C-4648-400C-8050-B7A8AF20AFE7" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="3A60DCD4-58EE-44E7-9B25-5C50FEEA0AAB" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.4</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">220C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">AP9151R</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">125um</Property>
+    </Entity>
+    <Entity Id="D09AD063-9BBB-4F2B-A1A7-AF5F394FA46E" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="69FFC8ED-5279-434E-B0B5-3F51486E6751" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">10.2</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.002</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FSD1020T</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">508um</Property>
+    </Entity>
+    <Entity Id="E56505C9-2F48-4DAE-A185-6D7B53BAB827" TypeId="27d70fdc-4c4e-4774-bfac-7efbb48cde47" RevisionId="65D76F67-1E40-463C-B7A7-F72C29681370" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">10.2</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.001</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FSD1020GR</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">762um</Property>
+    </Entity>
+    <Entity Id="4CDC76F6-DAA5-4332-83C7-D3ADADE166CC" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="2B3AC36C-2520-48BD-A0E5-B2BABAA211F0" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">75%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.3</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 PR</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">45um</Property>
+    </Entity>
+    <Entity Id="00059A3C-979F-47E4-B34D-9F170DDE8DA0" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="4ED262B9-8CCD-47AE-979F-E0290FE9BD7B" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">67%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.6</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 PR</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">76um</Property>
+    </Entity>
+    <Entity Id="242288DA-959C-4185-B8A0-F123C84259DB" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="2A3A0EFA-169E-47CE-9DB4-4059131C008E" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">56%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.2</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 PR</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">115um</Property>
+    </Entity>
+    <Entity Id="8393B779-96C5-4557-B9AC-D6B399B9074D" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="6E2EB0D8-7DD2-4340-AE28-C93FFE7CB0B3" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">48%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.6</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.016</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">150C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4 PR</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">190um</Property>
+    </Entity>
+    <Entity Id="367C7052-6DF3-478D-8B29-96483FC5C613" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="C4BC05F8-0439-437A-A484-FF566BEDBCE9" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">73%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.9</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.017</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4_HiTg170 PR</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">45um</Property>
+    </Entity>
+    <Entity Id="26871204-367E-4A98-B929-CAFD0C254983" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="7C7EF9A4-93DA-463D-859C-BD471784BE28" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">63%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.2</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.017</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4_HiTg170 PR</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">69um</Property>
+    </Entity>
+    <Entity Id="BC216E1E-26F3-4B6D-A422-689C2B95A084" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="FDE5DE97-52CF-4BF3-86D9-25F070029E45" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">56%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">5.07</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.017</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4_HiTg170 PR</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">125um</Property>
+    </Entity>
+    <Entity Id="74625232-DB01-40D7-9D8A-0612705933BD" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="515DE44C-CC44-4D59-9663-458E5E61C186" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">45%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">5.14</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.017</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">170C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">FR4_HiTg170 PR</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">191um</Property>
+    </Entity>
+    <Entity Id="14571332-3D7A-42FB-A1D6-9162293C8D12" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="2B403BD6-DFDB-405C-B408-38C3B1CAC1B2" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">71%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.34</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.009</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">190C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">TU-87P SLK FR-4</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">50um</Property>
+    </Entity>
+    <Entity Id="52F58E32-94A3-4FAB-AFFD-9323169379B8" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="324147F7-1016-4E3A-AD63-30DBF90C264F" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">76%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.21</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.009</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">190C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">TU-87P SLK FR-4</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">64um</Property>
+    </Entity>
+    <Entity Id="781A4C6F-FDC3-44C2-99AF-F975847209A9" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="75B4C544-C486-4BEE-919A-0C0003FC16C7" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">64%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.52</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.009</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">190C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">TU-87P SLK FR-4</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">76um</Property>
+    </Entity>
+    <Entity Id="9F6FFD53-FFF7-479D-AD09-00A5F23D1189" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="A4076D4E-3985-4643-8EDF-F343DA73E3B8" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">54%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.73</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.009</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">190C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">TU-87P SLK FR-4</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">102um</Property>
+    </Entity>
+    <Entity Id="FE11C734-DAAD-4C2A-A141-70B5BEC02A85" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="9F25F248-BA78-4CDC-8784-343CF80CDDE8" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.5</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.014</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">190C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">TU-84P</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">50um</Property>
+    </Entity>
+    <Entity Id="9DDAA70B-207D-4D11-A771-B6F3FE19B4F3" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="2AEF144E-78AD-456F-AD2E-019D6926C154" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">5GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">4.5</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.014</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">190C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">TU-84P</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">76um</Property>
+    </Entity>
+    <Entity Id="ECA3B8FA-20FB-4912-B3AD-386044382817" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="7EFBFCD7-0427-4A8A-A222-2DCA64742B67" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">1MHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.6</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.02</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">LF0111</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">75um</Property>
+    </Entity>
+    <Entity Id="524EF12C-6747-4F0C-84FA-9D2CF795F10E" TypeId="e04a4e7f-10f0-42df-add7-587710efd89e" RevisionId="595F4D20-021C-4D35-8310-E5D0E8761C13" RevisionDate="2023-08-11T10:35:00">
+      <Property Name="Constructions" Type="String">-</Property>
+      <Property Name="Resin" Type="DimValue" Dimension="Relative">50%</Property>
+      <Property Name="Frequency" Type="DimValue" Dimension="Frequency">10GHz</Property>
+      <Property Name="DielectricConstant" Type="DimValue" Dimension="Dimensionless">3.5</Property>
+      <Property Name="LossTangent" Type="DimValue" Dimension="Dimensionless">0.004</Property>
+      <Property Name="GlassTransTemp" Type="DimValue" Dimension="Temperature">280C</Property>
+      <Property Name="Manufacturer" Type="String">Rezonit</Property>
+      <Property Name="Name" Type="String">WL-PP350</Property>
+      <Property Name="Thickness" Type="DimValue" Dimension="Length">102um</Property>
+    </Entity>
+    <Entity Id="5078A3FC-44EF-4007-A65C-93954ED26595" TypeId="e8b99bb8-b51f-4a6e-a0fc-7439b27f8c76" RevisionId="E3BBD0B1-0C9D-41EF-B041-1047A77B7825" RevisionDate="2023-08-14T15:29:44">
+      <Property Name="Process" Type="String">Galvanic</Property>
+      <Property Name="Material" Type="String">Cu</Property>
+      <Property Name="Color" Type="System.Windows.Media.Color, PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">#FFFFA500</Property>
+    </Entity>
+  </Entities>
+  <EntityExtensions xmlns=""/>
+</ExtensibleLibrary>

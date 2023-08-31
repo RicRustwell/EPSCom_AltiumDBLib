@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Description0=236|Library Ref0=126|Library Path0=160|Footprint Ref0=115|Footprint Path0=107|PCB3D Ref0=89|PCB3D Path0=82|Value0=81|Manufacturer0=93|Device Package0=101|Operating Temperature0=144|Status0=55|Height - Seated (Max)0=133
+BrowserOrder_Visible=Part Number0=87|Description0=236|Library Ref0=126|Library Path0=160|Footprint Ref0=126|Footprint Path0=107|PCB3D Ref0=89|PCB3D Path0=82|Value0=80|Manufacturer0=93|Device Package0=101|Operating Temperature0=144|Status0=55|Height - Seated (Max)0=133
 [FieldMap1]
 Options=FieldName=Mini-Circuits.Part Number|TableNameOnly=Mini-Circuits|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

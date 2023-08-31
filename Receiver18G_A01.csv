@@ -1,0 +1,43 @@
+﻿Column1;Column2;Column3;Column4;Column5;Column6;Column7;Column8;Column9;Column10;Column11;Column12;Column13;Column14;Column15;Column16;Column17;Column18;Column19;Column20
+Board Layer Stack;;;;;;;;;;;;;;;;;;;
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mm);Weight (oz);Dk;Df;Orientation;Copper Orientation;Pullback distance (mm);Description;Color;Constructions;Solid (%);Resin (%);Frequency (GHz);GlassTransTemp (°C)
+;Board Layer Stack Top Overlay;Overlay;;;;;;;;;;;;;;;;;
+;Board Layer Stack Top Solder;Solder Mask;Altium Designer;SM-001;;0.0254;;4;0.03;;;;Solder Mask;#FF008000;;1;;1;125
+;Top Surface Finish;Surface Finish;;Gold;IAu;0.004;;;;;;;;#FFFFB200;;;;;
+1;RF TOP;Signal;Rezonit;Cu;ED;0.035;1;;;Top;Above;;Copper Foil;;;;;;
+;Dielectric 1;Core;Rezonit;RO4350B;;0.101;;3.38;0.003;;;;FR4;;-;;50;10;280
+2;GND RF;Plane;Rezonit;Cu;ED;0.035;1;;;;Below;0.508;Copper Foil;;;;;;
+;Dielectric 2;Prepreg;Rezonit;FR4_HiTg170 PR;;0.125;;5.07;0.017;;;;;;-;;56;5;170
+;Dielectric 3;Prepreg;Rezonit;FR4_HiTg170 PR;;0.125;;5.07;0.017;;;;;;-;;56;5;170
+3;PWR;Plane;Rezonit;Cu;ED;0.035;1;;;;Above;0.508;Copper Foil;;;;;;
+;Dielectric 4;Core;Rezonit;FR4 HiTg170;;0.51;;4.7;0.016;;;;FR4;;-;;50;5;170
+4;SIG 1;Signal;Rezonit;Cu;ED;0.035;1;;;Not allowed;Above;;Copper Foil;;;;;;
+;Dielectric 5;Prepreg;Rezonit;FR4_HiTg170 PR;;0.125;;5.07;0.017;;;;;;-;;56;5;170
+;Dielectric 6;Prepreg;Rezonit;FR4_HiTg170 PR;;0.125;;5.07;0.017;;;;;;-;;56;5;170
+5;GND;Plane;Rezonit;Cu;ED;0.035;1;;;;Above;0.508;Copper Foil;;;;;;
+;Dielectric 7;Core;Rezonit;FR4 HiTg170;;0.1;;4;0.016;;;;FR4;;-;;50;5;170
+6;BOT;Signal;Rezonit;Cu;ED;0.035;1;;;Bottom;Below;;Copper Foil;;;;;;
+;Bottom Surface Finish;Surface Finish;;Gold;IAu;0.004;;;;;;;;#FFFFB200;;;;;
+;Board Layer Stack Bottom Solder;Solder Mask;Altium Designer;SM-001;;0.0254;;4;0.03;;;;Solder Mask;#FF008000;;1;;1;125
+;Board Layer Stack Bottom Overlay;Overlay;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+Impedances;;;;;;;;;;;;;;;;;;;
+#;Target impedance (Ω);Type;Trace layer;Calculated impedance (Ω);Trace width (mm);Gap (mm);Reference layers;Stack;;;;;;;;;;;
+1;50;Single;RF TOP;50.0201;0.18427;;GND RF;Board Layer Stack;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+2;50;Single;SIG 1;49.9805;0.22621;;PWR;GND;Board Layer Stack;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+3;50;Single;BOT;49.9865;0.15976;;GND;Board Layer Stack;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+Via types;;;;;;;;;;;;;;;;;;;
+#;Name;Type;Layers;Stack;;;;;;;;;;;;;;;
+1;Thru 1:6;Thru;RF TOP-BOT;Board Layer Stack;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+2;Blind 1:2;Blind;RF TOP-GND RF;Board Layer Stack;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+3;Blind 3:6;Blind;PWR-BOT;Board Layer Stack;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+No back drills;;;;;;;;;;;;;;;;;;;
