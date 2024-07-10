@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=146|Description0=845|Library Ref0=146|Library Path0=182|Footprint Ref0=158|Footprint Path0=182|PCB3D Ref0=76|PCB3D Path0=165|Value0=146|Tolerance0=73|Manufacturer0=202|Device Package0=175|Operating Temperature0=144|Height - Seated (Max)0=133|Status0=55
+BrowserOrder_Visible=Part Number0=146|Description0=845|Library Ref0=146|Library Path0=182|Footprint Ref0=167|Footprint Path0=182|PCB3D Ref0=76|PCB3D Path0=165|Value0=146|Tolerance0=73|Manufacturer0=202|Device Package0=175|Operating Temperature0=144|Height - Seated (Max)0=133|Status0=55
 [FieldMap1]
 Options=FieldName=Connectors.Part Number|TableNameOnly=Connectors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
