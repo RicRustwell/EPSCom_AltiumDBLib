@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Projects\IMv\EPSCom_AltiumDBLib\Connectors\Connectors_DB.accdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Projects\EPSCom_AltiumDBLib\Connectors\Connectors_DB.accdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=146|Description0=845|Library Ref0=146|Library Path0=182|Footprint Ref0=167|Footprint Path0=182|PCB3D Ref0=76|PCB3D Path0=165|Value0=146|Tolerance0=73|Manufacturer0=202|Device Package0=175|Operating Temperature0=144|Height - Seated (Max)0=133|Status0=55
+BrowserOrder_Visible=Part Number0=145|Description0=836|Library Ref0=145|Library Path0=180|Footprint Ref0=166|Footprint Path0=181|PCB3D Ref0=77|PCB3D Path0=164|Value0=145|Tolerance0=72|Manufacturer0=195|Device Package0=176|Operating Temperature0=142|Height - Seated (Max)0=135|Status0=54
 [FieldMap1]
 Options=FieldName=Connectors.Part Number|TableNameOnly=Connectors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
